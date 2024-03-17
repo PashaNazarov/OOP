@@ -4,7 +4,7 @@ Console.WriteLine("И ты собираешься полететь в отпус
 Console.WriteLine("А программа поможет посчитать по сколько надо тебе скидываться");
 Console.WriteLine("Выбери куда ты хочешь полететь");
 Console.WriteLine("1 - Испания, 2 - Италия, 3 - Франция");
- switch (true)
+ switch (false)
 {
     case true:
         Console.WriteLine("Ты решил полететь в Испанию");
